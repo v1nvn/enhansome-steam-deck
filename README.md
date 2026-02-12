@@ -92,7 +92,7 @@ Choose what you find more suitable for you:
 
 ## Software
 
-* [Distrobox](https://github.com/89luca89/distrobox) ⭐ 12,061 | 🐛 104 | 🌐 Shell | 📅 2026-02-10 - Use any Linux distribution inside your terminal.
+* [Distrobox](https://github.com/89luca89/distrobox) ⭐ 12,066 | 🐛 104 | 🌐 Shell | 📅 2026-02-10 - Use any Linux distribution inside your terminal.
 * [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) ⭐ 2,318 | 🐛 50 | 🌐 TypeScript | 📅 2026-01-29 - An app for managing ROMs in Steam.
 * [BoilR](https://github.com/PhilipK/BoilR) ⭐ 1,766 | 🐛 104 | 🌐 Rust | 📅 2026-02-05 - Synchronize non-Steam games with your Steam library.
 * [Clover](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) ⭐ 706 | 🐛 14 | 🌐 Shell | 📅 2026-01-26 - Graphical boot manager for the Steam Deck.
@@ -104,51 +104,51 @@ Choose what you find more suitable for you:
 
 ## Emulation
 
-* [shadPS4](https://github.com/shadps4-emu/shadPS4) ⭐ 28,293 | 🐛 121 | 🌐 C++ | 📅 2026-02-10 - PS4 Emulator.
-* [RPCS3](https://github.com/RPCS3/rpcs3) ⭐ 18,145 | 🐛 1,139 | 🌐 C++ | 📅 2026-02-09 - PS3 Emulator.
-* [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 14,604 | 🐛 371 | 🌐 C++ | 📅 2026-02-11 - Gamecube/Wii Emulator.
-* [PCSX2](https://github.com/PCSX2/pcsx2) ⭐ 14,386 | 🐛 722 | 🌐 C++ | 📅 2026-02-10 - PS2 Emulator.
-* [PPSSPP](https://github.com/hrydgard/ppsspp) ⭐ 13,323 | 🐛 1,330 | 🌐 C++ | 📅 2026-02-10 - PSP Emulator.
-* [RetroArch](https://github.com/libretro/RetroArch) ⭐ 12,654 | 🐛 2,963 | 🌐 C | 📅 2026-02-11 - Frontend for emulators, game engines and media players.
-* [Vita3K](https://github.com/Vita3K/Vita3K) ⭐ 5,000 | 🐛 411 | 🌐 C++ | 📅 2026-02-04 - PS Vita Emulator.
-* [xemu](https://github.com/xemu-project/xemu) ⭐ 3,664 | 🐛 878 | 🌐 C | 📅 2026-02-09 - Xbox Emulator.
-* [DeSmuME](https://github.com/TASEmulators/desmume) ⭐ 3,468 | 🐛 85 | 🌐 C++ | 📅 2026-01-21 - Nintendo DS Emulator.
-* [EmuDeck](https://github.com/dragoonDorise/EmuDeck) ⭐ 3,383 | 🐛 65 | 🌐 Shell | 📅 2026-02-05 - Emulator configurator.
-* [bsnes](https://github.com/bsnes-emu/bsnes) ⭐ 1,894 | 🐛 144 | 🌐 C++ | 📅 2026-01-09 - SNES Emulator.
-* [RetroDECK](https://github.com/XargonWan/RetroDECK) ⭐ 1,111 | 🐛 279 | 🌐 Shell | 📅 2026-02-10 - All-in-one sandboxed application to play your retro games.
+* [shadPS4](https://github.com/shadps4-emu/shadPS4) ⭐ 28,301 | 🐛 119 | 🌐 C++ | 📅 2026-02-11 - PS4 Emulator.
+* [RPCS3](https://github.com/RPCS3/rpcs3) ⭐ 18,150 | 🐛 1,139 | 🌐 C++ | 📅 2026-02-11 - PS3 Emulator.
+* [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 14,605 | 🐛 371 | 🌐 C++ | 📅 2026-02-11 - Gamecube/Wii Emulator.
+* [PCSX2](https://github.com/PCSX2/pcsx2) ⭐ 14,394 | 🐛 725 | 🌐 C++ | 📅 2026-02-11 - PS2 Emulator.
+* [PPSSPP](https://github.com/hrydgard/ppsspp) ⭐ 13,329 | 🐛 1,329 | 🌐 C++ | 📅 2026-02-12 - PSP Emulator.
+* [RetroArch](https://github.com/libretro/RetroArch) ⭐ 12,660 | 🐛 2,963 | 🌐 C | 📅 2026-02-12 - Frontend for emulators, game engines and media players.
+* [Vita3K](https://github.com/Vita3K/Vita3K) ⭐ 5,007 | 🐛 411 | 🌐 C++ | 📅 2026-02-11 - PS Vita Emulator.
+* [xemu](https://github.com/xemu-project/xemu) ⭐ 3,665 | 🐛 879 | 🌐 C | 📅 2026-02-09 - Xbox Emulator.
+* [DeSmuME](https://github.com/TASEmulators/desmume) ⭐ 3,469 | 🐛 85 | 🌐 C++ | 📅 2026-01-21 - Nintendo DS Emulator.
+* [EmuDeck](https://github.com/dragoonDorise/EmuDeck) ⭐ 3,385 | 🐛 65 | 🌐 Shell | 📅 2026-02-05 - Emulator configurator.
+* [bsnes](https://github.com/bsnes-emu/bsnes) ⭐ 1,894 | 🐛 145 | 🌐 C++ | 📅 2026-01-09 - SNES Emulator.
+* [RetroDECK](https://github.com/XargonWan/RetroDECK) ⭐ 1,112 | 🐛 278 | 🌐 Shell | 📅 2026-02-11 - All-in-one sandboxed application to play your retro games.
 * [EmulationStation DE](https://gitlab.com/es-de/emulationstation-de) - Frontend for browsing and launching games from various collections.
 
 ## Launcher
 
-* [Bottles](https://github.com/bottlesdevs/Bottles) ⭐ 8,035 | 🐛 223 | 🌐 Python | 📅 2026-02-10 - Run Windows software and games under Linux.
-* [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) ⭐ 4,116 | 🐛 127 | 🌐 Python | 📅 2026-02-10 - Automatic installation of the most popular launchers.
+* [Bottles](https://github.com/bottlesdevs/Bottles) ⭐ 8,044 | 🐛 223 | 🌐 Python | 📅 2026-02-11 - Run Windows software and games under Linux.
+* [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) ⭐ 4,118 | 🐛 127 | 🌐 Python | 📅 2026-02-10 - Automatic installation of the most popular launchers.
 * [Lutris](https://lutris.net/) - Open gaming platform.
 * [Heroic](https://heroicgameslauncher.com/) - Epic Games and GOG launcher.
 
 ## Remote
 
-* [LocalSend](https://github.com/localsend/localsend) ⭐ 74,758 | 🐛 873 | 🌐 Dart | 📅 2026-02-10 - Open source app to share files between devices over your local network.
-* [KDE Connect](https://github.com/KDE/kdeconnect-kde) ⭐ 3,503 | 🐛 0 | 🌐 C++ | 📅 2026-02-11 - Multi-platform app that allows your devices to communicate.
-* [Greenlight](https://github.com/unknownskl/greenlight) ⭐ 2,700 | 🐛 225 | 🌐 TypeScript | 📅 2026-02-02 - An open source client for streaming Xbox Cloud and Xbox Home.
+* [LocalSend](https://github.com/localsend/localsend) ⭐ 74,823 | 🐛 875 | 🌐 Dart | 📅 2026-02-10 - Open source app to share files between devices over your local network.
+* [KDE Connect](https://github.com/KDE/kdeconnect-kde) ⭐ 3,504 | 🐛 0 | 🌐 C++ | 📅 2026-02-12 - Multi-platform app that allows your devices to communicate.
+* [Greenlight](https://github.com/unknownskl/greenlight) ⭐ 2,701 | 🐛 225 | 🌐 TypeScript | 📅 2026-02-02 - An open source client for streaming Xbox Cloud and Xbox Home.
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - Free and open source software client for PlayStation 4 and PlayStation 5 Remote Play.
 * [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Extend your Steam gaming experience to more devices.
 
 ## File Management
 
-* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 79,810 | 🐛 406 | 🌐 Go | 📅 2026-02-10 - Open source continuous file synchronization.
+* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 79,845 | 🐛 399 | 🌐 Go | 📅 2026-02-11 - Open source continuous file synchronization.
 * [OpenCloudSaves](https://github.com/DavidDeSimone/OpenCloudSaves) ⚠️ Archived - A tool used for syncing your save games across your devices.
 * [Deck Drive Manager](https://deckdrivemanager.com/) - Copy PC games from PC to Steam Deck drives.
 
 ## Utility
 
-* [Ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 5,026 | 🐛 51 | 🌐 Rust | 📅 2026-01-23 - Backup tool for PC game saves.
+* [Ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 5,028 | 🐛 51 | 🌐 Rust | 📅 2026-01-23 - Backup tool for PC game saves.
 * [Cryoutilities](https://github.com/CryoByte33/steam-deck-utilities) ⭐ 3,524 | 🐛 68 | 🌐 Go | 📅 2024-02-04 - Scripts and utilities to improve performance and manage storage.
 * [Steam Deck Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) ⭐ 490 | 🐛 20 | 🌐 Shell | 📅 2024-07-08 - Script to purge Steam Deck shader cache.
 * [Shortix](https://github.com/Jannomag/shortix) ⭐ 148 | 🐛 4 | 🌐 Shell | 📅 2024-12-22 - A script that creates human readable symlinks for Proton game prefixes.
 
 ## Plugin
 
-* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) ⭐ 6,404 | 🐛 101 | 🌐 TypeScript | 📅 2026-02-08 - Plugin launcher.
+* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) ⭐ 6,407 | 🐛 101 | 🌐 TypeScript | 📅 2026-02-08 - Plugin launcher.
 * [Deckbrew Plugins](https://plugins.deckbrew.xyz) - List of Deckbrew plugins.
 * [MagicPods](https://magicpods.app/steamdeck) - A magic plugin for Decky Loader that lets you control your AirPods and Beats headphones in a comfortable way.
 
